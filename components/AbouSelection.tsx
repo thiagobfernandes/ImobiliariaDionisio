@@ -8,7 +8,7 @@ export function AboutSection() {
                     <h2 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">A Nossa História</h2>
                     <div className="prose prose-lg text-gray-700 space-y-4">
                         <p>
-                            Fundada em 2009, a ImóveisEU nasceu com a missão de revolucionar o mercado imobiliário português,
+                            Fundada em 2009, a ImobiliarioDionisio nasceu com a missão de revolucionar o mercado imobiliário português,
                             oferecendo um serviço personalizado e de excelência.
                         </p>
                         <p>
@@ -21,8 +21,8 @@ export function AboutSection() {
                 </div>
                 <div className="relative">
                     <Image
-                        src="/placeholder.svg?height=500&width=600&text=Escritório+ImóveisEU"
-                        alt="Escritório ImóveisEU"
+                        src="/placeholder.svg?height=500&width=600&text=Escritório+ImobiliarioDionisio"
+                        alt="Escritório ImobiliarioDionisio"
                         width={600}
                         height={500}
                         className="rounded-lg shadow-xl"
